@@ -1,0 +1,44 @@
+body {
+    background-image: url(imagens/fundo.png);
+}
+
+div img {
+    width: 50%;
+    margin: 5px;
+}
+div a {
+    padding: 20px;
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+}
+
+.menu {
+    background: #c5c5b2;
+    width: 50%;
+    padding: 15px;
+}
+
+.conteudo {
+    background: #e8e8d9;
+    width: 50%;
+    padding: 15px;
+}
+
+div h2 {
+    font-size: 20px;
+    color: #828271;
+}
+
+.rodape {
+    font-weight: bold;
+    font-size: 15px;
+    width: 50%;
+    text-align: center;
+}
+
+.fotos {
+    width: 75%;
+    border: 10px solid #c5c5b2;
+    margin: 1px;
+}
